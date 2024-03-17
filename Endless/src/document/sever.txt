@@ -1,0 +1,2 @@
+Sever: localhost:1433
+Database: Endless
